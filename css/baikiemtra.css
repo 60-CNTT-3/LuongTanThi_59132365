@@ -1,0 +1,89 @@
+.brg{
+	width: 100% auto;
+	background-image: url(../img/background.jpg); 
+}
+.container{
+	margin: 0px auto;
+	width: 900px;
+	height: 600px;
+	border: 1px solid blue;
+}
+
+.logovatieude{
+	width: 898px;
+	height: 130px;
+	border: 1px solid blue;
+}
+.menu{
+	width: 896px;
+	height: 57px;
+	border: 1px solid blue;
+	float: left;/*
+	padding-top: 20px;*/
+}
+.dangnhap{
+	width: 232px;
+	height: 365px;
+	border: 1px solid blue;
+	float: left;
+	padding-left: 5px;
+}
+.noidung{
+	width: 657px;
+	height: 365px;
+	border: 1px solid blue;
+	float: left;
+}
+.sanpham{
+	float: left;
+	width: 662px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.duoisp{
+	float: left;
+	width: 662px;
+	height: 200px;
+	border: 1px solid black;
+}
+.img{
+	float: left;
+	width: 250px;
+	height: 200px;
+	border: 1px solid black;
+}
+#hh{
+	width: 95%;
+	height: 95%;
+}
+.cachinh{
+	height: 200px;
+	width: 662px;
+	float: left;
+}
+.listimg{
+	width: 100px;
+	height: 200px;
+	float: left;
+}
+.footer{
+	width: 895px;
+	height: 39px;
+	text-align: center;
+}
+#logo{
+	width: 250px;
+	height: 130px;
+	float: left;
+}
+}
+.tieude{
+	text-align: center;
+}
+#hinh
+{
+	width: 150px;
+	height: 110px;
+	float: center;
+	padding: 4px;
+}
